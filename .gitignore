@@ -1,0 +1,6 @@
+env/
+log*.txt
+courses_to_move.json
+data.json
+*.pyc
+private.py
